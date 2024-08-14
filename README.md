@@ -19,5 +19,6 @@ I thought it was right in keeping these tips here and I'll be sure to use them d
 
 ## Additional Resources
 
+- [My Progress Tracker](./marcellaharr-oss-journal.md)
 - [#100DaysOfOSS](https://docs.opensauced.pizza/community/100-days-of-oss/)
 - [OpenSauced](https://opensauced.pizza/)
