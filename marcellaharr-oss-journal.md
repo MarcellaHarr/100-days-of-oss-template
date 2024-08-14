@@ -1,12 +1,16 @@
 ## Daily-*ish* Overview
 
-- **Project**: Onboarding & Admin work
-- **Description**: Getting an understanding of the *100DaysOfOSS* Challenge.
-- **Tasks completed**: Created a repo **|** used and customized the template
-- **Challenges faced**: I am not sure if I should create an **OpenSauced** account. I think it is too soon to do so.
-- **Resources used**: I got inspiration from [Venelouis](https://github.com/venelouis) and completed the "Task Two: Start Keeping Track" instructed by [Bekah](https://github.com/BekahHW).
-- **OpenSauced Highlight**: Get started and don't hesitate.
+- **Project**: #100DaysOfOSS Challenge,Week One - Task Four: Getting Started
+- **Description**: Getting an understanding about open source and what it means to be a contributor.
+- **Tasks completed**: 
+    - Read 
+    - Created and connected OpenSauced to GitHub.
+- **Challenges faced**: Searching for projects on OpenSauced
+- **Resources used**: [#100DaysOfOSS community discussion](https://github.com/orgs/open-sauced/discussions) board
+- **OpenSauced Highlight**: How to Contribute to Open Sourced Section
 <br>
+<br>
+<hr>
 
 
 # 100DaysOfOSS Progress Tracker
@@ -24,3 +28,30 @@
   - [GitHub Education and OpenSauced: 100 days of OSS twitch](https://www.twitch.tv/videos/2218350705)
   - [Discussion Board](https://github.com/orgs/open-sauced/discussions/36)
 - **OpenSauced Highlight**: **-**
+<br>
+
+## Day 2
+
+- **Project**: Task Four: Getting Started, *Intro to Open Source*.
+- **Description**: I read up to the *"What Happens Next?"* section and just followed the different prompts and guides.
+- **Tasks completed**:
+  - Created my OpenSauced account
+  - Viewed examples of these files:
+    - README markdown
+    - Contribution Guidelines
+    - Code of Conduct
+    - Pull Request Form
+  - Replied to Week 1's thread on my progress
+  - Completed Task IV
+- **Challenges faced**: I found it hard to find a project I wanted to join, but I'll have to browse further.
+- **Resources used**: 
+  - [Intro to Open Source](https://opensauced.pizza/learn/intro-to-oss/) course
+- **OpenSauced Highlight**:
+<figure style="text-align: center; color: teal;">
+  <p align="center">
+    <img src="./images/marcellaOpenSauced.png" alt="Marcella's OpenSauced profile header image" style="display: block; margin: 0 auto;">
+  </p>
+  <figcaption>
+    <p align="center">Screenshot of my newly created OpenSauced profile</p>
+  </figcaption>
+</figure>
