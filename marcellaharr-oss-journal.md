@@ -19,7 +19,7 @@
   - Watched the GitHub Education and OpenSauced video on Twitch.
   - Visited OpenSauced GitHub Page to clone and customize the 100DaysOfOSS template.
   - Completed Task I and Task II
-- **Challenges faced**: I didn't meet anyone, but I gave thumbs up to a couple of threads. I also started six days into the challenge. *But*, Pj and Bekah mentioned to not worry about joining late.
+- **Challenges faced**: I didn't meet anyone, but I gave thumbs up to a couple of threads. I also started started late (~3weeks) into the challenge. *But*, Pj and Bekah mentioned to not worry about joining late.
 - **Resources used**: 
   - [GitHub Education and OpenSauced: 100 days of OSS twitch](https://www.twitch.tv/videos/2218350705)
   - [Discussion Board](https://github.com/orgs/open-sauced/discussions/36)
