@@ -1,25 +1,26 @@
-# 100DaysOfOSS Progress Tracker
+## Daily-*ish* Overview
 
-## Template for Each Day
+- **Project**: Onboarding & Admin work
+- **Description**: Getting an understanding of the *100DaysOfOSS* Challenge.
+- **Tasks completed**: Created a repo **|** used and customized the template
+- **Challenges faced**: I am not sure if I should create an **OpenSauced** account. I think it is too soon to do so.
+- **Resources used**: I got inspiration from [Venelouis](https://github.com/venelouis) and completed the "Task Two: Start Keeping Track" instructed by [Bekah](https://github.com/BekahHW).
+- **OpenSauced Highlight**: Get started and don't hesitate.
+<br>
 
-- **Project**: [Project Name]
-- **Description**: [Briefly describe the project and your goals for the day]
-- **Tasks completed**: [List the tasks you completed]
-- **Challenges faced**: [Mention any challenges you encountered]
-- **Resources used**: [Include any helpful resources or documentation links]
-- **OpenSauced Highlight**: [Include a link, screenshot, or both if applicable]
 
 # 100DaysOfOSS Progress Tracker
 
 ## Day 1
 
-- **Project**: Sample Blog Website
-- **Description**: Set up the project and created a basic homepage layout.
+- **Project**: 100 Days Of OpenSource Challenge, Week One
+- **Description**: Set up the project and added content to my progress tracker.
 - **Tasks completed**: 
-  - Installed Angular CLI and generated a new project.
-  - Designed the homepage layout with HTML and CSS.
-- **Challenges faced**: Understanding CSS Flexbox for layout design.
+  - Watched the GitHub Education and OpenSauced video on Twitch.
+  - Visited OpenSauced GitHub Page to clone and customize the 100DaysOfOSS template.
+  - Completed Task I and Task II
+- **Challenges faced**: I didn't meet anyone, but I gave thumbs up to a couple of threads. I also started six days into the challenge. *But*, Pj and Bekah mentioned to not worry about joining late.
 - **Resources used**: 
-  - Angular CLI documentation (https://angular.io/cli)
-  - CSS Flexbox guide on MDN (https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox)
-- **OpenSauced Highlight**: [Include a link, screenshot, or both if applicable]
+  - [GitHub Education and OpenSauced: 100 days of OSS twitch](https://www.twitch.tv/videos/2218350705)
+  - [Discussion Board](https://github.com/orgs/open-sauced/discussions/36)
+- **OpenSauced Highlight**: **-**
