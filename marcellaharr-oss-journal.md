@@ -13,10 +13,10 @@
 - **OpenSauced Highlight**:
 <figure style="text-align: center; color: teal;">
   <p align="center">
-    <img src="https://placehold.co/400" alt="Placeholder" style="display: block; margin: 0 auto;">
+    <img src="./images/OpenSauced-Contributor-Guestbook-Highlight-Day3.png" alt="OpenSauced Guestbook Highlight Screenshot" style="display: block; margin: 0 auto;">
   </p>
   <figcaption>
-    <p align="center">Placeholder</p>
+    <p align="center">OpenSauced Day-3 Highlight</p>
   </figcaption>
 </figure>
 <br>
@@ -84,46 +84,46 @@
   - Waited for `Approval`
   - Posted my OpenSauced highlight
   - Joined OpenSauced Discord
-- **Challenges faced**: When I submitted the pull request `(PR)`, I wasn’t sure which keyword to use for the `‘Related Tickets & Documents.’` So, I opted for the same one that was in the title `(‘feat #…’)`. Additionally, I had difficulty locating the issue number, so I retrieved it from the screenshot I took when it was initially created.” 😊
+- **Challenges faced**: When I submitted the pull request `(PR)`, I wasn’t sure which keyword to use for the `‘Related Tickets & Documents.’` So, I opted for the same one that was in the title `(‘feat #…’)`. Additionally, I had difficulty locating the issue number, so I retrieved it from the screenshot I took when it was initially created. I'll do some research on how to access this information, in the case, I don't take a screenshot. 😊
 - **Resources used**: 
   - ["How to Contribute to Open Source" Chapter](https://opensauced.pizza/learn/intro-to-oss/how-to-contribute-to-open-source)
 - **OpenSauced Highlight**:
 <figure style="text-align: center; color: teal;">
   <p align="center">
-    <img src="https://placehold.co/400" alt="Placeholder" style="display: block; margin: 0 auto;">
+    <img src="./images/guestbook-1st-Created-Issue.png" alt="OpenSauced Guestbook Issue Screenshot" style="display: block; margin: 0 auto;">
   </p>
   <figcaption>
-    <p align="center">Placeholder</p>
+    <p align="center">Guestbook Issue Ticket</p>
   </figcaption>
 </figure>
 <br>
 
 <figure style="text-align: center; color: teal;">
   <p align="center">
-    <img src="https://placehold.co/400" alt="Placeholder" style="display: block; margin: 0 auto;">
+    <img src="./images/OpenSauced-Contributor-MarcellaHarr-Profile.png" alt="Generated Guestbook Profile Screenshot" style="display: block; margin: 0 auto;">
   </p>
   <figcaption>
-    <p align="center">Placeholder</p>
+    <p align="center">Generated Guestbook Profile</p>
   </figcaption>
 </figure>
 <br>
 
 <figure style="text-align: center; color: teal;">
   <p align="center">
-    <img src="https://placehold.co/400" alt="Placeholder" style="display: block; margin: 0 auto;">
+    <img src="./images/OpenSauced-1st-PR-Completion-Highlight.png" alt="OpenSauced Pull Request Approval on GitHub" style="display: block; margin: 0 auto;">
   </p>
   <figcaption>
-    <p align="center">Placeholder</p>
+    <p align="center">PR Approval on GitHub</p>
   </figcaption>
 </figure>
 <br>
 
 <figure style="text-align: center; color: teal;">
   <p align="center">
-    <img src="https://placehold.co/400" alt="Placeholder" style="display: block; margin: 0 auto;">
+    <img src="./images/OpenSauced-Contributor-Guestbook-Highlight-Day3.png" alt="OpenSauced Highlight Screenshot" style="display: block; margin: 0 auto;">
   </p>
   <figcaption>
-    <p align="center">Placeholder</p>
+    <p align="center">OpenSauced Guestbook Day-3 Highlight</p>
   </figcaption>
 </figure>
 <br>
