@@ -1,13 +1,24 @@
 ## Daily-*ish* Overview
 
-- **Project**: #100DaysOfOSS Challenge,Week One - Task Four: Getting Started
-- **Description**: Getting an understanding about open source and what it means to be a contributor.
+- **Project**: Guestbook Contribution
+- **Description**: Just following the tutorial from the `"Intro to Open Source"` course.
 - **Tasks completed**: 
-    - Read 
-    - Created and connected OpenSauced to GitHub.
-- **Challenges faced**: Searching for projects on OpenSauced
-- **Resources used**: [#100DaysOfOSS community discussion](https://github.com/orgs/open-sauced/discussions) board
-- **OpenSauced Highlight**: How to Contribute to Open Sourced Section
+    - Read the course ... continued
+    - Followed the *"How to Contribute to Open Source"* guide
+- **Challenges faced**: 
+    - Contribution keywords
+    - New branch name
+    - Finding the `Issue` number
+- **Resources used**: ["How to Contribute to Open Source" Chapter](https://opensauced.pizza/learn/intro-to-oss/how-to-contribute-to-open-source)
+- **OpenSauced Highlight**:
+<figure style="text-align: center; color: teal;">
+  <p align="center">
+    <img src="https://placehold.co/400" alt="Placeholder" style="display: block; margin: 0 auto;">
+  </p>
+  <figcaption>
+    <p align="center">Placeholder</p>
+  </figcaption>
+</figure>
 <br>
 <br>
 <hr>
@@ -55,3 +66,64 @@
     <p align="center">Screenshot of my newly created OpenSauced profile</p>
   </figcaption>
 </figure>
+<br>
+
+## Day 3
+
+- **Project**: OpenSauced Guestbook Repository
+- **Description**: Contributing to an open source project.
+- **Tasks completed**: 
+  - Created an `Issue`
+  - Completed the form for the "Issue"
+  - Forked and cloned the `guestbook` repo
+  - Installed `npm` dependencies
+  - Created and described a `new branch`
+  - `Added` self and `generated` to the guestbook
+  - `Screenshot` of my generated profile
+  - Made a log and forked the repo
+  - Waited for `Approval`
+  - Posted my OpenSauced highlight
+  - Joined OpenSauced Discord
+- **Challenges faced**: When I submitted the pull request `(PR)`, I wasn’t sure which keyword to use for the `‘Related Tickets & Documents.’` So, I opted for the same one that was in the title `(‘feat #…’)`. Additionally, I had difficulty locating the issue number, so I retrieved it from the screenshot I took when it was initially created.” 😊
+- **Resources used**: 
+  - ["How to Contribute to Open Source" Chapter](https://opensauced.pizza/learn/intro-to-oss/how-to-contribute-to-open-source)
+- **OpenSauced Highlight**:
+<figure style="text-align: center; color: teal;">
+  <p align="center">
+    <img src="https://placehold.co/400" alt="Placeholder" style="display: block; margin: 0 auto;">
+  </p>
+  <figcaption>
+    <p align="center">Placeholder</p>
+  </figcaption>
+</figure>
+<br>
+
+<figure style="text-align: center; color: teal;">
+  <p align="center">
+    <img src="https://placehold.co/400" alt="Placeholder" style="display: block; margin: 0 auto;">
+  </p>
+  <figcaption>
+    <p align="center">Placeholder</p>
+  </figcaption>
+</figure>
+<br>
+
+<figure style="text-align: center; color: teal;">
+  <p align="center">
+    <img src="https://placehold.co/400" alt="Placeholder" style="display: block; margin: 0 auto;">
+  </p>
+  <figcaption>
+    <p align="center">Placeholder</p>
+  </figcaption>
+</figure>
+<br>
+
+<figure style="text-align: center; color: teal;">
+  <p align="center">
+    <img src="https://placehold.co/400" alt="Placeholder" style="display: block; margin: 0 auto;">
+  </p>
+  <figcaption>
+    <p align="center">Placeholder</p>
+  </figcaption>
+</figure>
+<br>
