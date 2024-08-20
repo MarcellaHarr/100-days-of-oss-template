@@ -1,22 +1,19 @@
 ## Daily-*ish* Overview
 
-- **Project**: Guestbook Contribution
-- **Description**: Just following the tutorial from the `"Intro to Open Source"` course.
+- **Project**: *`Intro to Open Source`* course
+- **Description**: More reading.
 - **Tasks completed**: 
     - Read the course ... continued
-    - Followed the *"How to Contribute to Open Source"* guide
 - **Challenges faced**: 
-    - Contribution keywords
-    - New branch name
-    - Finding the `Issue` number
-- **Resources used**: ["How to Contribute to Open Source" Chapter](https://opensauced.pizza/learn/intro-to-oss/how-to-contribute-to-open-source)
+    - Making a post because of time restraints.
+- **Resources used**: [Intro to Open Source](https://opensauced.pizza/learn/intro-to-oss/how-to-contribute-to-open-source)
 - **OpenSauced Highlight**:
 <figure style="text-align: center; color: teal;">
   <p align="center">
-    <img src="./images/OpenSauced-Contributor-Guestbook-Highlight-Day3.png" alt="OpenSauced Guestbook Highlight Screenshot" style="display: block; margin: 0 auto;">
+    <img src="" alt="" style="display: block; margin: 0 auto;">
   </p>
   <figcaption>
-    <p align="center">OpenSauced Day-3 Highlight</p>
+    <p align="center"></p>
   </figcaption>
 </figure>
 <br>
@@ -34,9 +31,9 @@
   - [Day 1](marcellaharr-oss-journal.md#day-1)
   - [Day 2](marcellaharr-oss-journal.md#day-2)
   - [Day 3](marcellaharr-oss-journal.md#day-3)
-  - [Day 4](#day-4)
-  - [Day 5](#day-5)
-  - [Day 6](#day-6)
+  - [Day 4](marcellaharr-oss-journal.#day-4)
+  - [Day 5](marcellaharr-oss-journal.#day-5)
+  - [Day 6](marcellaharr-oss-journal.#day-6)
   - [Day 7](#day-7)
   - [Day 8](#day-8)
   - [Day 9](#day-9)
@@ -233,4 +230,40 @@
     <p align="center">OpenSauced Guestbook Day-3 Highlight</p>
   </figcaption>
 </figure>
+<br>
+
+
+## Day 4
+
+- **Project**: N/A
+- **Description**: **-**
+- **Tasks completed**: **-**
+- **Challenges faced**: I didn't do anything on day 4.
+- **Resources used**: **-**
+- **OpenSauced Highlight**: **-**
+<br>
+
+
+## Day 5
+
+- **Project**: N/A
+- **Description**: **-**
+- **Tasks completed**: **-**
+- **Challenges faced**: I didn't do anything on day 5.
+- **Resources used**: **-**
+- **OpenSauced Highlight**: **-**
+<br>
+
+
+## Day 6
+
+- **Project**: *Intro to Open Source*
+- **Description**: More reading of the course.
+- **Tasks completed**: 
+  - Read chapter, "The Secret Sauce"
+  - Read Chapter, "Types of Contributions"
+- **Challenges faced**: I really struggled to make a post today but I had to since I already missed two days. SMH!
+- **Resources used**: 
+  - ["Intro to Open Source](https://opensauced.pizza/learn/intro-to-oss/how-to-contribute-to-open-source)
+- **OpenSauced Highlight**: **-**
 <br>
