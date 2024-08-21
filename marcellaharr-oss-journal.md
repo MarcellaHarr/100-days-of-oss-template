@@ -1,9 +1,10 @@
 ## Daily-*ish* Overview
 
 - **Project**: *`Intro to Open Source`* course
-- **Description**: More reading.
+- **Description**: I finished reading the course.
 - **Tasks completed**: 
-    - Read the course ... continued
+    - Completed the course
+    - Viewed projects on OpenSauced
 - **Challenges faced**: 
     - Making a post because of time restraints.
 - **Resources used**: [Intro to Open Source](https://opensauced.pizza/learn/intro-to-oss/how-to-contribute-to-open-source)
@@ -34,7 +35,7 @@
   - [Day 4](marcellaharr-oss-journal.#day-4)
   - [Day 5](marcellaharr-oss-journal.#day-5)
   - [Day 6](marcellaharr-oss-journal.#day-6)
-  - [Day 7](#day-7)
+  - [Day 7](marcellaharr-oss-journal#day-7)
   - [Day 8](#day-8)
   - [Day 9](#day-9)
   - [Day 10](#day-10)
@@ -266,4 +267,27 @@
 - **Resources used**: 
   - ["Intro to Open Source](https://opensauced.pizza/learn/intro-to-oss/how-to-contribute-to-open-source)
 - **OpenSauced Highlight**: **-**
+<br>
+
+
+## Day 7
+
+- **Project**: *Intro to Open Source*
+- **Description**: I finished the course and did the first two steps of the `"What's Next"` section.
+- **Tasks completed**: 
+  - Read chapter, "What's Next"
+  - Added two repositories to my OpenSauced workspace.
+- **Challenges faced**: I want to join at least one repo that is based on genealogy. Unfortunately, a couple of the ones available on OpenSauced were inactive and a bit intimidating. However, I did find two repositories that are for first-time contributors, even though they are outside of my interests, I believe they'll help me build on my experience in open source and my confidence in contributing.
+- **Resources used**: 
+  - ["Intro to Open Source](https://opensauced.pizza/learn/intro-to-oss/how-to-contribute-to-open-source)
+  - OpenSauced.Pizza
+- **OpenSauced Highlight**:
+<figure style="text-align: center; color: teal;">
+  <p align="center">
+    <img src="./images/marcellaharrOpenSaucedWorkspace.png" alt="My OpenSauced Workspace" style="display: block; margin: 0 auto;">
+  </p>
+  <figcaption>
+    <p align="center">Screenshot of my Workspace</p>
+  </figcaption>
+</figure>
 <br>
