@@ -4,6 +4,7 @@
 - **Description**: I am sharing my DevCard for this week
 - **Tasks completed**: 
     - Shared my DevCard
+    - [Day 8](marcellaharr-oss-journal.md#day-8)
 - **Challenges faced**: 
     - Making a post because of time restraints.
 - **Resources used**: [Intro to Open Source](https://opensauced.pizza/learn/intro-to-oss/how-to-contribute-to-open-source)
@@ -31,11 +32,11 @@
   - [Day 1](marcellaharr-oss-journal.md#day-1)
   - [Day 2](marcellaharr-oss-journal.md#day-2)
   - [Day 3](marcellaharr-oss-journal.md#day-3)
-  - [Day 4](marcellaharr-oss-journal.#day-4)
-  - [Day 5](marcellaharr-oss-journal.#day-5)
-  - [Day 6](marcellaharr-oss-journal.#day-6)
-  - [Day 7](marcellaharr-oss-journal#day-7)
-  - [Day 8](marcellaharr-oss-journal#day-8)
+  - [Day 4](marcellaharr-oss-journal.md#day-4)
+  - [Day 5](marcellaharr-oss-journal.md#day-5)
+  - [Day 6](marcellaharr-oss-journal.md#day-6)
+  - [Day 7](marcellaharr-oss-journal.md#day-7)
+  - [Day 8](marcellaharr-oss-journal.md#day-8)
   - [Day 9](#day-9)
   - [Day 10](#day-10)
   - [Day 11](#day-11)
