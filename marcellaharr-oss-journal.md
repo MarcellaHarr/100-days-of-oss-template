@@ -1,17 +1,16 @@
 ## Daily-*ish* Overview
 
-- **Project**: *`Intro to Open Source`* course
-- **Description**: I finished reading the course.
+- **Project**: My DevCard
+- **Description**: I am sharing my DevCard for this week
 - **Tasks completed**: 
-    - Completed the course
-    - Viewed projects on OpenSauced
+    - Shared my DevCard
 - **Challenges faced**: 
     - Making a post because of time restraints.
 - **Resources used**: [Intro to Open Source](https://opensauced.pizza/learn/intro-to-oss/how-to-contribute-to-open-source)
 - **OpenSauced Highlight**:
 <figure style="text-align: center; color: teal;">
   <p align="center">
-    <img src="" alt="" style="display: block; margin: 0 auto;">
+    <img src="./images/MarcellaHarr_DevCard_Front.png" alt="Marcella's DevCard front view with a value of 1" style="display: block; margin: 0 auto;">
   </p>
   <figcaption>
     <p align="center"></p>
@@ -36,7 +35,7 @@
   - [Day 5](marcellaharr-oss-journal.#day-5)
   - [Day 6](marcellaharr-oss-journal.#day-6)
   - [Day 7](marcellaharr-oss-journal#day-7)
-  - [Day 8](#day-8)
+  - [Day 8](marcellaharr-oss-journal#day-8)
   - [Day 9](#day-9)
   - [Day 10](#day-10)
   - [Day 11](#day-11)
@@ -288,6 +287,30 @@
   </p>
   <figcaption>
     <p align="center">Screenshot of my Workspace</p>
+  </figcaption>
+</figure>
+<br>
+
+
+## Day 8
+
+- **Project**: Week 2: Share your OSCR Card
+- **Description**: My DevCard's value is 1 because of the initial contribution I made during week one.
+- **Tasks completed**: 
+  - Accessed my OpenSauced profile
+  - Clicked on the DevCard icon by my profile pic
+  - Copied and shared my DevCard
+- **Challenges faced**: -
+- **Resources used**: 
+  - OpenSauced.Pizza Profile
+- **OpenSauced Highlight**:
+<figure style="text-align: center; color: teal;">
+  <p align="center">
+    <img src="./images/MarcellaHarr_DevCard_Front.png" alt="Marcella's DevCard front view with a value of 1" style="display:inline-block; margin: 0 auto;">
+    <img src="./images/MarcellaHarr_DevCard_Back.png" alt="Marcella's DevCard back view" style="display:inline-block; margin: 0 auto;">
+  </p>
+  <figcaption>
+    <p align="center">Screenshot of my DevCard</p>
   </figcaption>
 </figure>
 <br>
