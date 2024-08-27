@@ -12,7 +12,7 @@
   - [Day 5](marcellaharr-oss-journal#day-5)
   - [Day 6](marcellaharr-oss-journal#day-6)
   - [Day 7](marcellaharr-oss-journal#day-7)
-  - [Day 8](#day-8)
+  - [Day 8](marcellaharr-oss-journal#day-8)
   - [Day 9](#day-9)
   - [Day 10](#day-10)
   - [Day 11](#day-11)
