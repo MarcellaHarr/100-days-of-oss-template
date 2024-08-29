@@ -1,17 +1,16 @@
 ## Daily-*ish* Overview
 
-- **Project**: My DevCard
-- **Description**: I am sharing my DevCard for this week
+- **Project**: Open Source Projects
+- **Description**: I searched for open source projects and I was able to add an additional four projects to my OpenSauced Workspace, making me have a total of six beginner-friendly projects I know I can contribute to.
 - **Tasks completed**: 
-    - Shared my DevCard
-    - [Day 8](marcellaharr-oss-journal.md#day-8)
-- **Challenges faced**: 
-    - Making a post because of time restraints.
-- **Resources used**: [Intro to Open Source](https://opensauced.pizza/learn/intro-to-oss/how-to-contribute-to-open-source)
+    - Week 2, Task Two: Find Projects You're Interested in
+    - [Day 9](marcellaharr-oss-journal.md#day-9)
+- **Challenges faced**: -
+- **Resources used**: [OpenSauced Explore](https://app.opensauced.pizza/)
 - **OpenSauced Highlight**:
 <figure style="text-align: center; color: teal;">
   <p align="center">
-    <img src="./images/MarcellaHarr_DevCard_Front.png" alt="Marcella's DevCard front view with a value of 1" style="display: block; margin: 0 auto;">
+    <img src="./images/magnumpiSearching.gif" alt="NBC's Magnum P.I. gif" style="display: block; margin: 0 auto;">
   </p>
   <figcaption>
     <p align="center"></p>
@@ -22,111 +21,11 @@
 <hr>
 
 
-# 100DaysOfOSS Progress Tracker
+# `100DaysOfOSS` Progress Tracker
 
-## Table of Contents
-
-- [100 Days of Open Source](#100-days-of-open-source)
-  - [Table of Contents](#table-of-contents)
-  - [Introduction](#introduction)
-  - [Day 1](marcellaharr-oss-journal.md#day-1)
-  - [Day 2](marcellaharr-oss-journal.md#day-2)
-  - [Day 3](marcellaharr-oss-journal.md#day-3)
-  - [Day 4](marcellaharr-oss-journal.md#day-4)
-  - [Day 5](marcellaharr-oss-journal.md#day-5)
-  - [Day 6](marcellaharr-oss-journal.md#day-6)
-  - [Day 7](marcellaharr-oss-journal.md#day-7)
-  - [Day 8](marcellaharr-oss-journal.md#day-8)
-  - [Day 9](#day-9)
-  - [Day 10](#day-10)
-  - [Day 11](#day-11)
-  - [Day 12](#day-12)
-  - [Day 13](#day-13)
-  - [Day 14](#day-14)
-  - [Day 15](#day-15)
-  - [Day 16](#day-16)
-  - [Day 17](#day-17)
-  - [Day 18](#day-18)
-  - [Day 19](#day-19)
-  - [Day 20](#day-20)
-  - [Day 21](#day-21)
-  - [Day 22](#day-22)
-  - [Day 23](#day-23)
-  - [Day 24](#day-24)
-  - [Day 25](#day-25)
-  - [Day 26](#day-26)
-  - [Day 27](#day-27)
-  - [Day 28](#day-28)
-  - [Day 29](#day-29)
-  - [Day 30](#day-30)
-  - [Day 31](#day-31)
-  - [Day 32](#day-32)
-  - [Day 33](#day-33)
-  - [Day 34](#day-34)
-  - [Day 35](#day-35)
-  - [Day 36](#day-36)
-  - [Day 37](#day-37)
-  - [Day 38](#day-38)
-  - [Day 39](#day-39)
-  - [Day 40](#day-40)
-  - [Day 41](#day-41)
-  - [Day 42](#day-42)
-  - [Day 43](#day-43)
-  - [Day 44](#day-44)
-  - [Day 45](#day-45)
-  - [Day 46](#day-46)
-  - [Day 47](#day-47)
-  - [Day 48](#day-48)
-  - [Day 49](#day-49)
-  - [Day 50](#day-50)
-  - [Day 51](#day-51)
-  - [Day 52](#day-52)
-  - [Day 53](#day-53)
-  - [Day 54](#day-54)
-  - [Day 55](#day-55)
-  - [Day 56](#day-56)
-  - [Day 57](#day-57)
-  - [Day 58](#day-58)
-  - [Day 59](#day-59)
-  - [Day 60](#day-60)
-  - [Day 61](#day-61)
-  - [Day 66](#day-66)
-  - [Day 67](#day-66)
-  - [Day 68](#day-68)
-  - [Day 69](#day-69)
-  - [Day 70](#day-70)
-  - [Day 71](#day-71)
-  - [Day 72](#day-72)
-  - [Day 73](#day-73)
-  - [Day 74](#day-74)
-  - [Day 75](#day-75)
-  - [Day 76](#day-76)
-  - [Day 77](#day-77)
-  - [Day 78](#day-78)
-  - [Day 79](#day-79)
-  - [Day 80](#day-80)
-  - [Day 81](#day-81)
-  - [Day 82](#day-82)
-  - [Day 83](#day-83)
-  - [Day 84](#day-84)
-  - [Day 85](#day-85)
-  - [Day 86](#day-86)
-  - [Day 87](#day-87)
-  - [Day 88](#day-88)
-  - [Day 89](#day-89)
-  - [Day 90](#day-90)
-  - [Day 91](#day-91)
-  - [Day 92](#day-92)
-  - [Day 93](#day-93)
-  - [Day 94](#day-94)
-  - [Day 95](#day-95)
-  - [Day 96](#day-96)
-  - [Day 97](#day-97)
-  - [Day 98](#day-98)
-  - [Day 99](#day-99)
-  - [Day 100](#day-100)
 #
 <hr>
+<br>
 
 
 ## Day 1
@@ -291,6 +190,7 @@
   </figcaption>
 </figure>
 <br>
+<br>
 
 
 ## Day 8
@@ -315,3 +215,35 @@
   </figcaption>
 </figure>
 <br>
+<br>
+<br>
+
+
+## Day 9
+
+- **Project**: Week 2, Task Two: Find Projects You're Interested in
+- **Description**: I browsed all of the beginner open-source projects listed on FreeCodeCamp's "How to Contribute to Open Source" GitHub page. After identifying about 15 suitable projects from the 25 listed for beginners, I used OpenSauced to add them to my 'Workspace' because it's a convenient way to keep track of the projects I'm interested in.
+- **Tasks completed**: 
+  - Found:
+    - [@BeeWare](https://github.com/beeware)
+    - [@PublicLab](https://github.com/publiclab)
+    - [@nteract](https://github.com/nteract)
+    - [@PradumnaSaraf](https://github.com/Pradumnasaraf)
+- **Challenges faced**: There wasn't a challenge per se; it just took longer than I thought, but that was because I wanted to focus and select the ones that made me feel comfortable.
+- **Resources used**: 
+  - [FreeCodeCamp GitHub](https://github.com/freeCodeCamp/how-to-contribute-to-open-source/blob/main/PROJECTS.md)
+  - [OpenSauced Explore](https://app.opensauced.pizza/)
+- **OpenSauced Highlight**: -
+<figure style="text-align: center; color: teal;">
+  <p align="center">
+    <img src="" alt="" style="display:inline-block; margin: 0 auto;">
+  </p>
+  <figcaption>
+    <p align="center"></p>
+  </figcaption>
+</figure>
+<br>
+
+
+
+[Back to the top](#daily-ish-overview)
