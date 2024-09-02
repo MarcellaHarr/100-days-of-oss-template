@@ -1,16 +1,16 @@
 ## Daily-*ish* Overview
 
-- **Project**: Open Source Projects
-- **Description**: I searched for open source projects and I was able to add an additional four projects to my OpenSauced Workspace, making me have a total of six beginner-friendly projects I know I can contribute to.
+- **Project**: Open Source Projects Part II
+- **Description**: I took a look at the four projects and compared them to see which ones were organized.
 - **Tasks completed**: 
-    - Week 2, Task Two: Find Projects You're Interested in
-    - [Day 9](marcellaharr-oss-journal.md#day-9)
-- **Challenges faced**: -
-- **Resources used**: [OpenSauced Explore](https://app.opensauced.pizza/)
-- **OpenSauced Highlight**:
+    - Week 2, Task Two: How Open Source Projects Are Organized?
+    - [Day 10](marcellaharr-oss-journal.md#day-10)
+- **Challenges faced**:
+- **Resources used**: [OpenSauced Workspace](https://app.opensauced.pizza/workspaces)
+- **OpenSauced Highlight**: -
 <figure style="text-align: center; color: teal;">
   <p align="center">
-    <img src="./images/magnumpiSearching.gif" alt="NBC's Magnum P.I. gif" style="display: block; margin: 0 auto;">
+    <img src="" alt="" style="display: block; margin: 0 auto;">
   </p>
   <figcaption>
     <p align="center"></p>
@@ -233,6 +233,57 @@
 - **Resources used**: 
   - [FreeCodeCamp GitHub](https://github.com/freeCodeCamp/how-to-contribute-to-open-source/blob/main/PROJECTS.md)
   - [OpenSauced Explore](https://app.opensauced.pizza/)
+- **OpenSauced Highlight**: -
+<figure style="text-align: center; color: teal;">
+  <p align="center">
+    <img src="" alt="" style="display:inline-block; margin: 0 auto;">
+  </p>
+  <figcaption>
+    <p align="center"></p>
+  </figcaption>
+</figure>
+<br>
+
+
+## Day 10
+
+- **Project**: Week 2, Task Two: How Open Source Projects Are Organized?
+- **Description**: I read all the `README.MDs`, `CONTRIBUTING.MDs` (for the ones I was able to find), and I reviewed a couple of the `Feature Requests` and `Bug Reports` for each of the four projects. Overall, the majority of the four are definitely __beginner-friendly__.
+- **Tasks completed**: 
+  - Found:
+    - |[@nteract](https://github.com/nteract)|  Format | Info | Available | Clear & Concise | Active |
+      |--------------------------------------|---------|------|-----------|-----------------|--------|
+      |README                                |Organized|About repo, Contribution instructions, and How-To |Yes   |Yes | Yes|
+      |CONTRIBUTING                          |Organized  |Knowledge requirements and How-TOs |Yes         |Yes |Yes |
+      |Feature Requests                      |Template |States a specific matter and was assigned |Yes |Yes |Yes |
+      |Bug Reports                           |Template |States a specific bug, recreates the bug, and gives a solution |Yes |Yes |Yes |
+
+    - |[@PradumnaSaraf](https://github.com/Pradumnasaraf/open-source-with-pradumna)| Format | Info | Available | Clear & Concise | Active |
+      |------------------------------------------------|--------|------|-----------|-----------------|-----|
+      |README                                          |Organized |How-to, Contribution instructions, Resources, and FAQs|Yes |Yes |Yes |
+      |CONTRIBUTING |Organized |How-to and Documentations |Yes |Yes |Yes |
+      |Feature Requests |Template (closed ones)|States a specific matter and was assigned |Yes (closed ones) |No (~ incomplete) |No |
+      |Bug Reports |Template |States the solution to the bug |Yes |No, (~ incomplete) |No |
+
+    - |[@BeeWare Toga](https://github.com/beeware)| Format | Info | Available | Clear & Concise | Active |
+      |--------------------------------------|--------|------|-----------|-----------------|-------------|
+      |README                                |Organized |About repo, Documentation, Community, and Contribution/How-to |Yes |Yes |Yes |
+      |CONTRIBUTING                          |Organized |How-to, Community Incentives, and Code of Conduct  |Yes (external link) |Yes |Yes |
+      |Feature Requests                      |Template |States a specific matter and was assigned |Yes |Yes |Yes |
+      |Bug Reports                           |Template |States a specific bug, recreates bug, screenshots, ans the solution to the bug |Yes |Yes |Yes |
+
+    - |[@PublicLab plots2](https://github.com/publiclab)| Format | Info | Available | Clear & Concise | Active |
+      |------------------------------------------|--------|------|-----------|-----------------|--------|
+      |README                                    |Organized |About repo, How-TOs, Contribution instructions, and Code of Conduct |Yes |Yes |Yes |
+      |CONTRIBUTING                              |Organized |How-To, Code of Conduct, Community Chatroom |Yes (external link) |Yes |Yes |
+      |Feature Requests                          |Freeform |States a specific matter and was assigned |Yes |No (~ incomplete) |Yes |
+      |Bug Reports                               |Template |States a specific bug and was resolved |Yes |No (~ incomplete) |Yes |
+
+- **Challenges faced**: -
+- **Resources used**:
+  - [How to Write a Good Issue Post](https://opensauced.pizza/docs/community-resources/how-to-write-a-good-issue-tips-for-effective-communication-in-open-source/)
+  - GitHub Repos
+  - [My OpenSauced Workspace](https://app.opensauced.pizza/workspaces)
 - **OpenSauced Highlight**: -
 <figure style="text-align: center; color: teal;">
   <p align="center">
